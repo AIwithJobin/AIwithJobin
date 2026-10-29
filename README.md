@@ -148,8 +148,11 @@ Reduces **4096-channel SEM-EDS spectra (~73 GB)**. A reproducible multi-seed ben
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AIwithJobin&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIwithJobin&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile details"/>
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats"/>
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Top languages"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AIwithJobin&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
